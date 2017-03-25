@@ -1,4 +1,5 @@
-﻿var RegisterController = function ($scope, $location, RegistrationFactory) {
+﻿/* This is testing for git hub added by pankaj 25032017*/
+var RegisterController = function ($scope, $location, RegistrationFactory) {
     $scope.registerForm = {
         emailAddress: '',
         password: '',

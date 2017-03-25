@@ -1,4 +1,5 @@
-﻿var LoginController = function ($scope, $routeParams, $location, LoginFactory) {
+﻿/* This is testing for git hub added by pankaj 25032017*/
+var LoginController = function ($scope, $routeParams, $location, LoginFactory) {
     $scope.loginForm = {
         emailAddress: '',
         password: '',
