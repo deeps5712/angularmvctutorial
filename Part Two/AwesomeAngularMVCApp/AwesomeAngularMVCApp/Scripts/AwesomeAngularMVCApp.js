@@ -1,4 +1,4 @@
-﻿var AwesomeAngularMVCApp = angular.module('AwesomeAngularMVCApp', ['ui.router', 'ui.bootstrap']);
+var AwesomeAngularMVCApp = angular.module('AwesomeAngularMVCApp', ['ui.router', 'ui.bootstrap']);
 
 AwesomeAngularMVCApp.controller('LandingPageController', LandingPageController);
 AwesomeAngularMVCApp.controller('LoginController', LoginController);
